@@ -1,0 +1,6 @@
+@MSITracker.Server_HostAddress = http://localhost:5278
+
+GET {{MSITracker.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

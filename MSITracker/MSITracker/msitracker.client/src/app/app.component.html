@@ -1,0 +1,117 @@
+<mat-toolbar color="primary">
+  <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span>MSI Tracker</span>
+  <span class="example-spacer"></span>
+  <button mat-button routerLink="/inicio">Inicio</button>
+  <button mat-button routerLink="/productos">Productos</button>
+  <button mat-button routerLink="/servicios">Servicios</button>
+
+  <button mat-button [matMenuTriggerFor]="moreMenu">Más</button>
+  <mat-menu #moreMenu="matMenu">
+    <button mat-menu-item routerLink="/acerca-de">Acerca de</button>
+    <button mat-menu-item routerLink="/contacto">Contacto</button>
+  </mat-menu>
+
+  <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+    <mat-icon>account_circle</mat-icon>
+  </button>
+</mat-toolbar>
+
+<div fxLayout="row" fxLayout.lt-md="column" fxLayoutGap="20px">
+  <div fxFlex="33">
+    <mat-card>
+      <mat-card-header>
+        <mat-card-title>Banco</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <p>Este es el contenido de la primera columna. Ocupa el 30% del ancho.</p>
+      </mat-card-content>
+    </mat-card>
+  </div>
+  <div fxFlex="33">
+    <mat-card>
+      <mat-card-header>
+        <mat-card-title>Descripción</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <p>Este es el contenido de la segunda columna. Ocupa el 70% del ancho.</p>
+      </mat-card-content>
+    </mat-card>
+  </div>
+  <div fxFlex="33">
+    <mat-card>
+      <mat-card-header>
+        <mat-card-title>Fecha Inicial</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <p>Este es el contenido de la segunda columna. Ocupa el 70% del ancho.</p>
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>
+<div fxLayout="row" fxLayout.lt-md="column" fxLayoutGap="20px">
+  <div fxFlex="33">
+    <mat-card>
+      <mat-card-header>
+        <mat-card-title>Saldo</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <p>Este es el contenido de la primera columna. Ocupa el 30% del ancho.</p>
+      </mat-card-content>
+    </mat-card>
+  </div>
+  <div fxFlex="33">
+    <mat-card>
+      <mat-card-header>
+        <mat-card-title>Parcialidades</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <p>Este es el contenido de la segunda columna. Ocupa el 70% del ancho.</p>
+      </mat-card-content>
+    </mat-card>
+  </div>
+  <div fxFlex="33">
+
+  </div>
+</div>
+
+<main class="mdc-top-app-bar--fixed-adjust">
+  App content
+</main>
+<div class="container">
+  <div class="mat-elevation-z8">
+    <table class="mdc-data-table__table">
+      <thead>
+        <tr class="mdc-data-table__header-row">
+          <th>Banco</th>
+          <th>Descripción</th>
+          <th>Fecha Inicial</th>
+          <th>Saldo</th>
+          <th>Meses Transcurridos</th>
+          <th>Plazo</th>
+          <th>Restante</th>
+          <th>Saldo Pendiente</th>
+          <th>Mensualidad</th>
+          <th>Fecha</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <button mat-raised-button color="primary">Mi Botón Material</button>
+</div>
