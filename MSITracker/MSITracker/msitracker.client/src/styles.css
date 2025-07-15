@@ -1,4 +1,54 @@
 /* You can add global styles to this file, and also import other style files */
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.mat-toolbar.mat-primary {
+  --mat-toolbar-container-background-color: #1883c2;
+  --mat-toolbar-container-text-color: white;
+}
+
+.mat-mdc-form-field:not(.mat-form-field-disabled) .mat-mdc-floating-label.mdc-floating-label {
+  color: black;
+}
+
+.mdc-notched-outline {
+  border: 1px solid black;
+}
+
+.mat-mdc-form-field-type-mat-select:not(.mat-form-field-disabled) .mat-mdc-text-field-wrapper {
+  background: white;
+  border: 1px solid black;
+}
+
+mdc-option.mat-mdc-option-active.mdc-list-item {
+  background: white;
+  color: black;
+}
+
+div.mat-mdc-select-panel {
+  background: white;
+  color: black;
+}
+
+.mat-mdc-option {
+  background: white;
+  color: black;
+}
+
+  .mat-mdc-option:hover:not(.mdc-list-item--disabled) {
+    color: black;
+    font-weight: bold;
+    background-color: white;
+  }
+
+.mat-mdc-form-field:not(.mat-form-field-no-animations) .mdc-text-field__input,
+.mdc-text-field--outlined:not(.mdc-text-field--disabled) .mdc-text-field__input {
+  color: black;
+}
