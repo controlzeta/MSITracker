@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/MSITracker/MSITracker/MSITracker.Server/bin/Debug/net8.0
+/MSITracker/MSITracker/MSITracker.Server/obj
+/MSITracker/MSITracker.API/bin/Debug/net8.0
+/MSITracker/MSITracker.API/obj
+/MSITracker/MSITracker.Web/obj/Debug
+/MSITracker/.vs/MSITracker/CopilotIndices/17.14.734.62261
+/MSITracker/.vs/MSITracker/DesignTimeBuild
+/MSITracker/.vs/MSITracker/FileContentIndex
+/MSITracker/MSITracker/msitracker.client/obj/Debug
