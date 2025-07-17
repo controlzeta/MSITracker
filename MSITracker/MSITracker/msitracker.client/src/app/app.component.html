@@ -23,13 +23,12 @@
   <div fxLayout="row" fxLayout.lt-md="column" fxLayoutGap="20px">
     <div fxFlex="33" fxLayout="column">
       <div class="form-fields">
-        <mat-form-field class="large">
-          <mat-label>Banco</mat-label>
-          <mat-select formControlName="Bancos" appearance="outline">
-            <mat-option>BBVA</mat-option>
-            <mat-option>Banamex</mat-option>
-            <mat-option>Hey Banco</mat-option>
-            <mat-option>Banregio</mat-option>
+        <mat-form-field appearance="outline" class="large">
+          <mat-label>Selecciona un Banco</mat-label>
+          <mat-select [(ngModel)]="bancoSeleccionado" name="banco">
+            <mat-option *ngFor="let banco of bancos" [value]="banco.nombre">
+              {{ banco.nombre }}
+            </mat-option>
           </mat-select>
         </mat-form-field>
       </div>
@@ -38,7 +37,7 @@
       <div class="form-fields">
         <mat-form-field appearance="outline" class="large">
           <mat-label>Descripción</mat-label>
-          <input matInput placeholder="Descripción">
+          <input matInput [value]="descripcion" placeholder="Descripción">
         </mat-form-field>
       </div>
     </div>
@@ -46,7 +45,7 @@
       <div class="form-fields">
         <mat-form-field appearance="outline" class="large">
           <mat-label>Fecha Inicial</mat-label>
-          <input matInput placeholder="Ej. Juan Pérez">
+          <input matInput (value)="fechaInicial" placeholder="Fecha Inicial">
         </mat-form-field>
       </div>
     </div>
@@ -56,7 +55,7 @@
       <div class="form-fields">
         <mat-form-field appearance="outline" class="large">
           <mat-label>Saldo</mat-label>
-          <input matInput placeholder="Ej. Juan Pérez">
+          <input matInput placeholder="Costo de la compra a MSI" [value]="saldo">
         </mat-form-field>
       </div>
     </div>
@@ -67,13 +66,12 @@
       </mat-form-field>
     </div>
     <div fxFlex="33">
-
     </div>
   </div>
   <div fxLayout="row" fxLayout.lt-md="column" fxLayoutGap="20px">
     <div fxFlex="80"></div>
     <div fxFlex="20">
-      <button mat-raised-button color="primary">Agregar</button>
+      <button mat-raised-button (click)="agregarMensualidad()" color="primary">Agregar</button>
     </div>
   </div>
   <div style="height:12px;"></div>
@@ -110,6 +108,11 @@
         <ng-container matColumnDef="Parcialidades">
           <th mat-header-cell *matHeaderCellDef mat-sort-header> Parcialidades </th>
           <td mat-cell *matCellDef="let installment"> {{installment.Parcialidades}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="Mensualidad">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header> Mensualidad </th>
+          <td mat-cell *matCellDef="let installment"> {{installment.Mensualidad | currency:'MXN':'symbol':'1.2-2' }} </td>
         </ng-container>
 
         <ng-container matColumnDef="FechaFinal">

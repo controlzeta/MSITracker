@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "D:\\Github\\MSITracker\\MSITracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|solutionrelative:msitracker\\msitracker.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\model\\msitracking.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\model\\msitracking.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|solutionrelative:msitracker\\msitracker.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEB14AF2-F655-458A-AA9F-48C6447CBDCF}|MSITracker\\MSITracker.Server\\MSITracker.Server.csproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB14AF2-F655-458A-AA9F-48C6447CBDCF}|MSITracker\\MSITracker.Server\\MSITracker.Server.csproj|solutionrelative:msitracker\\msitracker.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|solutionrelative:msitracker\\msitracker.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|solutionrelative:msitracker\\msitracker.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D42678BD-C69C-72F1-9E14-E9E8C5C4EC90}|MSITracker\\msitracker.client\\MSITracker.Client.esproj|solutionrelative:msitracker\\msitracker.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEB14AF2-F655-458A-AA9F-48C6447CBDCF}|MSITracker\\MSITracker.Server\\MSITracker.Server.csproj|d:\\github\\msitracker\\msitracker\\msitracker\\msitracker.server\\msitracker.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,15 +54,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 248,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\MSITracker.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MSITracker\\MSITracker.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\MSITracker.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MSITracker\\MSITracker.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:51:10.992Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\src\\app\\app.component.html",
+              "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "MSITracker\\msitracker.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAIQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-15T17:53:12.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.ts",
+              "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\src\\main.ts",
+              "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\main.ts",
+              "RelativeToolTip": "MSITracker\\msitracker.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-16T23:06:22.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MSITracking.model.ts",
+              "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\model\\MSITracking.model.ts",
+              "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\src\\model\\MSITracking.model.ts",
+              "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\model\\MSITracking.model.ts",
+              "RelativeToolTip": "MSITracker\\msitracker.client\\src\\model\\MSITracking.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-16T23:01:03.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "tsconfig.json",
               "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\tsconfig.json",
               "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\tsconfig.json",
@@ -67,59 +133,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "angular.json",
               "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\angular.json",
               "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\angular.json",
               "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\angular.json",
               "RelativeToolTip": "MSITracker\\msitracker.client\\angular.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-15T23:04:15.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "app.module.ts",
               "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\src\\app\\app.module.ts",
               "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\app\\app.module.ts",
               "RelativeToolTip": "MSITracker\\msitracker.client\\src\\app\\app.module.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-07-15T22:36:08.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "styles.css",
               "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\styles.css",
               "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\src\\styles.css",
               "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\styles.css",
               "RelativeToolTip": "MSITracker\\msitracker.client\\src\\styles.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-15T22:09:26.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "app.component.ts",
-              "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\app\\app.component.ts",
-              "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\src\\app\\app.component.ts",
-              "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\app\\app.component.ts",
-              "RelativeToolTip": "MSITracker\\msitracker.client\\src\\app\\app.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-15T18:23:33.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "index.html",
               "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\index.html",
               "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\src\\index.html",
@@ -132,33 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "app.component.html",
-              "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\src\\app\\app.component.html",
-              "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\app\\app.component.html",
-              "RelativeToolTip": "MSITracker\\msitracker.client\\src\\app\\app.component.html",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvyMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-15T17:53:12.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\MSITracker.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MSITracker\\MSITracker.Server\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\MSITracker.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MSITracker\\MSITracker.Server\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T17:51:10.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MSITracker.Server.csproj",
               "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\MSITracker.Server\\MSITracker.Server.csproj",
               "RelativeDocumentMoniker": "MSITracker\\MSITracker.Server\\MSITracker.Server.csproj",
@@ -166,14 +193,13 @@
               "RelativeToolTip": "MSITracker\\MSITracker.Server\\MSITracker.Server.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-15T17:32:47.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T17:32:47.895Z"
             }
           ]
         },
         {
-          "DockedWidth": 209,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -182,6 +208,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "MSITracker\\msitracker.client\\src\\app\\app.component.ts",
+              "ToolTip": "D:\\Github\\MSITracker\\MSITracker\\MSITracker\\msitracker.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "MSITracker\\msitracker.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwEUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-15T18:23:33.314Z",
+              "EditorCaption": ""
             }
           ]
         }

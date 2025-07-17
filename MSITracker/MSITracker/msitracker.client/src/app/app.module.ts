@@ -1,5 +1,5 @@
 import { HttpClientModule } from '@angular/common/http';
-import { NgModule } from '@angular/core';
+import { LOCALE_ID, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
@@ -15,7 +15,13 @@ import { MatIconModule } from '@angular/material/icon';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { MatCardModule } from '@angular/material/card';
 import { MatFormFieldModule } from '@angular/material/form-field';
-import { MatSelectModule } from '@angular/material/select'; 
+import { MatSelectModule } from '@angular/material/select';
+import { FormsModule } from '@angular/forms';
+import { registerLocaleData } from '@angular/common'; // Importa esto
+import localeEsMx from '@angular/common/locales/es-MX'; // Importa el locale deseado
+
+registerLocaleData(localeEsMx, 'es-MX');
+
 
 @NgModule({
   declarations: [
@@ -36,9 +42,12 @@ import { MatSelectModule } from '@angular/material/select';
     FlexLayoutModule,
     MatCardModule,
     MatFormFieldModule,
-    MatSelectModule
+    MatSelectModule,
+    FormsModule
   ],
-  providers: [],
+  providers: [
+    { provide: LOCALE_ID, useValue: 'es-MX' }
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
